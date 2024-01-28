@@ -13,8 +13,8 @@ gsociety@github:~$ more readme.txt
 
 ----------------------------------
 ```
-<br>
-<br>
+
+<img src="https://img.shields.io/github/followers/gsociety0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917">
 <h3>PROGRAMMING</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=py,bash,powershell,django,mysql,html,css&perline=7"></p>
 <h3>ENVIRONMENT</h3>
@@ -22,7 +22,6 @@ gsociety@github:~$ more readme.txt
 <br><br>
 <h3>GITHUB STATS</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gsociety0&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="gsociety0"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gsociety0&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="gsociety0"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsociety0&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" width="771" alt="gsociety0"/>
+  <a href="http://www.github.com/gsociety0"><img src="https://github-readme-stats.vercel.app/api?username=gsociety0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gsociety0's GitHub stats" /></a>
+  <a href="https://github.com/gsociety0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsociety0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
