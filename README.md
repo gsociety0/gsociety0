@@ -1,27 +1,64 @@
-![1](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
-![2](https://readme-typing-svg.herokuapp.com?duration=9000&center=true&vCenter=true&width=1000&height=50&lines=WELCOME+TO+GSOCIETY'S+GITHUB+PROFILE.+THANK+YOU+FOR+VIEWING+HIS+PROFILE!)
+<img src="https://readme-typing-svg.herokuapp.com?duration=9000&center=true&vCenter=true&width=1000&height=50&lines=WELCOME+TO+GSOCIETY'S+GITHUB+PROFILE.+THANK+YOU+FOR+VIEWING+HIS+PROFILE!">
 
-<h3>WHOAMI</h3>
+<h3>Who am I</h3>
 
 ```bash
-gsociety@github:~$ ls -la /root/
-gsociety.dat    readme.txt
-gsociety@github:~$ more readme.txt
------------ readme.txt -----------
+gsociety@github:~$ whois gsociety > gsociety.dat
+gsociety@github:~$ more ./gsociety.dat
+-------------- gsociety.dat --------------
 
-          LEAVE ME HERE
+NAME     => unknown
+USERNAME => gsociety
+AGE      => 27
+LOCATION => Anonymous
+LANGUAGE => English, Russian and German
 
-----------------------------------
+LEARNING => Back-end
+OPEN TO  => Collaborating on Penetration
+            Pentesting Tools
+
+------------------------------------------
 ```
-
 <img src="https://img.shields.io/github/followers/gsociety0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917">
-<h3>PROGRAMMING</h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=py,bash,powershell,django,mysql,html,css&perline=7"></p>
-<h3>ENVIRONMENT</h3>
-<p align="left"><img src="https://skillicons.dev/icons?i=linux,vscode&perline=2"></p>
-<br><br>
-<h3>GITHUB STATS</h3>
+
+<br>
+
+<h3>Work Environment</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,gitlab&perline=6">
+</p>
+
+<h3>Software Development Skills</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=py,bash,powershell,&perline=6">
+</p>
+
+<h3>Back-end Skills</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=django,mysql,mongodb,sqlite,postgres,cloudflare&perline=6">
+</p>
+
+<h3>Front-end Skills</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css&perline=6">
+</p>
+
+<h3>Web3 Skills</h3>
 <div align="left">
-  <a href="http://www.github.com/gsociety0"><img src="https://github-readme-stats.vercel.app/api?username=gsociety0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gsociety0's GitHub stats" /></a>
-  <a href="https://github.com/gsociety0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsociety0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <img src="https://skillicons.dev/icons?i=solidity&perline=6">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="47" height="47">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="47" height="47">
+</div>
+
+<h3>Other Skills</h3>
+<pt align="left">
+    <img src="https://skillicons.dev/icons?i=bots,ps&perline=6">
+</pt>
+
+<br>
+
+<h3>Github Stats</h3>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=gsociety0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true">
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsociety0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages">
 </div>
