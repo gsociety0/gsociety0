@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?duration=9000&center=true&vCenter=true&width=1000&height=50&lines=WELCOME+TO+GSOCIETY'S+GITHUB+PROFILE.+THANK+YOU+FOR+VIEWING+HIS+PROFILE!">
 
-<h3>Who am I</h3>
-
 ```bash
 gsociety@github:~$ whois gsociety > gsociety.dat
 gsociety@github:~$ more ./gsociety.dat
